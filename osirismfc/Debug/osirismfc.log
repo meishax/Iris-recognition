@@ -1,0 +1,12 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  osirismfcDlg.cpp
+c:\users\mier\documents\tencent files\492895227\filerecv\虹膜识别vc2008例子改编osiris\复件 osirismfc\osirismfc\osimanager.h(14): fatal error C1083: 无法打开包括文件: “highgui.h”: No such file or directory
+  OsiProcessings.cpp
+c:\users\mier\documents\tencent files\492895227\filerecv\虹膜识别vc2008例子改编osiris\复件 osirismfc\osirismfc\osiprocessings.cpp(1291): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  OsiManager.cpp
+c:\users\mier\documents\tencent files\492895227\filerecv\虹膜识别vc2008例子改编osiris\复件 osirismfc\osirismfc\osimanager.cpp(871): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  OsiEye.cpp
+c:\users\mier\documents\tencent files\492895227\filerecv\虹膜识别vc2008例子改编osiris\复件 osirismfc\osirismfc\osieye.cpp(444): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  OsiCircle.cpp
+c:\users\mier\documents\tencent files\492895227\filerecv\虹膜识别vc2008例子改编osiris\复件 osirismfc\osirismfc\osicircle.cpp(136): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...
